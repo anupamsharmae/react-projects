@@ -1,0 +1,10 @@
+.products-list {
+   list-style: none;
+   margin: 0;
+   padding: 3rem;
+}
+
+.placeholder {
+   margin: 4rem;
+   text-align: center;
+}
